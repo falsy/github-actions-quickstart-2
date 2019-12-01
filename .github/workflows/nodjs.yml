@@ -9,4 +9,4 @@ jobs:
 
     steps:
     - name: 'add actions test'
-      uses: $USERNAME/github-actions-quickstart-2/tree/master/actions
+      uses: $USERNAME/github-custom-actions@master

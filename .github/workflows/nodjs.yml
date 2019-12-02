@@ -10,3 +10,4 @@ jobs:
     steps:
     - name: 'add actions test'
       uses: falsy/github-custom-actions@master
+      id: test
